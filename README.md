@@ -1,7 +1,7 @@
 GettingCleaningData-TidyDataSet
 ===============================
 
-#Peer Assessmnet Project for Getting and Cleaning Data on Coursera.
+###Peer Assessmnet Project for Getting and Cleaning Data on Coursera.
 
 # How my script works.
 ## This script requires the reshape2 package for R, for melt and dcast.
